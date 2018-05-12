@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/155
     wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28464#Epistle-Sermons-Vol.-IIEpiphany-Easter-and-Pentecost
 gutenberg_issued: '2009-03-31'
 gutenberg_type: Text
 identifiers:
